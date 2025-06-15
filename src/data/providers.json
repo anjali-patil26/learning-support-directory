@@ -1,0 +1,69 @@
+[
+  {
+    "id": "1",
+    "name": "Bright Minds Therapy",
+    "serviceType": "Dyslexia Support",
+    "location": "Mumbai",
+    "rating": 5,
+    "shortDescription": "Helping children with Dyslexia thrive.",
+    "longDescription": "We offer personalized programs for Dyslexia support using research-backed methods.",
+    "contactEmail": "info@brightminds.com",
+    "phone": "9876543210"
+  },
+  {
+    "id": "2",
+    "name": "Focus Coaching",
+    "serviceType": "ADHD Coaching",
+    "location": "Pune",
+    "rating": 4,
+    "shortDescription": "Coaching children with ADHD.",
+    "longDescription": "Our structured ADHD coaching uses cognitive behavioral techniques and parent involvement.",
+    "contactEmail": "hello@focus.com",
+    "phone": "9123456789"
+  },
+  {
+    "id": "3",
+    "name": "Spark Minds",
+    "serviceType": "Autism Support",
+    "location": "Delhi",
+    "rating": 4,
+    "shortDescription": "Supporting children with Autism Spectrum Disorder.",
+    "longDescription": "We specialize in one-on-one programs that develop communication and life skills for children with ASD.",
+    "contactEmail": "spark@minds.org",
+    "phone": "9012345678"
+  },
+  {
+    "id": "4",
+    "name": "Leap Ahead",
+    "serviceType": "Speech Therapy",
+    "location": "Chennai",
+    "rating": 5,
+    "shortDescription": "Expert speech therapy for all age groups.",
+    "longDescription": "Leap Ahead focuses on articulation, fluency, and language development for children with communication challenges.",
+    "contactEmail": "contact@leapahead.com",
+    "phone": "9901122334"
+  },
+  {
+    "id": "5",
+    "name": "Skill Tree",
+    "serviceType": "Occupational Therapy",
+    "location": "Bangalore",
+    "rating": 3,
+    "shortDescription": "Helping children gain daily living skills.",
+    "longDescription": "Skill Tree provides sensory integration and fine motor skill development with professional therapists.",
+    "contactEmail": "info@skilltree.in",
+    "phone": "9080706050"
+  },
+  {
+    "id": "6",
+    "name": "EduCare Pathways",
+    "serviceType": "Special Education",
+    "location": "Hyderabad",
+    "rating": 4,
+    "shortDescription": "Tailored academic plans for special learners.",
+    "longDescription": "EduCare Pathways works with children who need IEPs, customized curriculum, and one-on-one support.",
+    "contactEmail": "support@educare.com",
+    "phone": "9008890011"
+  }
+]
+
